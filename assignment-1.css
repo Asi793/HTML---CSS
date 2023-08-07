@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+
+div{
+    background-color: chartreuse;
+    color:deeppink;
+    padding:20px;
+}
+
+h1,h2{
+    font-style: italic;
+
+}
+
+section{
+    border: 5px solid rgb(166, 152, 152);
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+    font-style:oblique;
+}
+
+section li:hover{
+    color: crimson;
+}
